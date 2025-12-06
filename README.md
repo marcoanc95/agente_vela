@@ -26,7 +26,8 @@ Documentación de los **nodos de SQL Server** usados en este flujo y los nodos a
 
 ### Busqueda de cliente por numero de telefono2
 - **Tipo:** `n8n-nodes-base.microsoftSql`
-- **Credenciales:** microsoftSql: id=jpBzkdyAr4CclqkP, name=Microsoft SQL account
+
+
 - **Operación:** `SELECT`
 - **Tablas detectadas:** Address, Customers
 - **Entradas:** Datos relevantes
